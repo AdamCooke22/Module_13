@@ -4,19 +4,20 @@ For this challenge our role is to act as a risk management associate at a ventur
 
 
 The changes I made to optimize the model include:
-  Attempt #1
-    I increased the number of neurons in the output layer to 3.
-    I increased the number of hidden layers.
-    I increased the number of epochs.
+
+Attempt #1
+I increased the number of neurons in the output layer to 3.
+I increased the number of hidden layers.
+I increased the number of epochs.
     
-  This attempt increased the model's accuracy but only by .05%
+This attempt increased the model's accuracy but only by .05%
     
-  Attempt #2
-    I increased the number of neurons in the output layer to 5.
-    I increased the number of nodes per layer by 10 in each hidden layer.
-    I decreased the number of epochs.
+Attempt #2
+I increased the number of neurons in the output layer to 5.
+I increased the number of nodes per layer by 10 in each hidden layer.
+I decreased the number of epochs.
     
-  This attempt did not increase the model's accuracy, it ended up decreasing the accuracy by almost .2%
+This attempt did not increase the model's accuracy, it ended up decreasing the accuracy by almost .2%
 
 ---
 
